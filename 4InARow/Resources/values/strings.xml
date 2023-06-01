@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FourInARow</string>
+    <string name="action_settings">Settings</string>
+	<string name="btnBack">BACK</string>
+	<string name="tvAbout">ABOUT</string>
+	<string name="tvRules">Rules</string>
+	<string name="tvSupport">Support</string>
+	<string name="tvCredits">Credits</string>
+	<string name="tvChangeDetails">CHANGE DETAILS</string>
+	<string name="tvPlayer1">Player1</string>
+	<string name="tvPlayer2">Player2</string>
+	<string name="btnAccount">ACCOUNT</string>
+	<string name="btnsetting">SETTING</string>
+	<string name="btnCreate">CREATE</string>
+	<string name="tvLogin">LOGIN</string>
+	<string name="tvUsername">Username</string>
+	<string name="etPassword">Password</string>
+	<string name="etEmail">Email</string>
+	<string name="etUsername">Username</string>
+	<string name="btnSignUp">SIGN UP</string>
+	<string name="btnLogin">LOGIN</string>
+	<string name="tvProfile">PROFILE</string>
+	<string name="tvSound">Sound</string>
+	<string name="tvSwitchColors">Switch colors</string>
+  <string name="tv_host_name_text">Host Name</string>
+  <string name="tv_game_size_header">Size</string>
+	    <string name="btnfindtext">Find game</string>
+
+</resources>

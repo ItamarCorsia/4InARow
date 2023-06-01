@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87969575824",
+    "project_id": "fourinarow-66fe6",
+    "storage_bucket": "fourinarow-66fe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87969575824:android:e6770fa418c23f7db2b915",
+        "android_client_info": {
+          "package_name": "com.meitar.fourinarow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87969575824-q38934ab0alsdumco5dk7s1f80607v74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvhvuhGMc_dtx0tFM7cnw2zrg3f0dngA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87969575824-q38934ab0alsdumco5dk7s1f80607v74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
